@@ -1,4 +1,6 @@
 # gcp_log_toolbox.py    
+
+[![Git](https://app.soluble.cloud/api/v1/public/badges/e4fe33d7-4a7d-427a-b887-6f7d0baf3e2f.svg?orgId=251133511671)](https://app.soluble.cloud/repos/details/github.com/robewedd/gcp_log_toolbox?orgId=251133511671)  
 gcp_log_toolbox.py is a python 3.5.3+ tool created to assist in the collection and manipulatation of Google Cloud Platform (GCP) logs in json format. It currently supports the following functions:  
 
 `Collection` - Download StackDriver log exports from Google Cloud Storage  
